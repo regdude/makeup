@@ -10,6 +10,7 @@
 - [Concealer](#Concealer)
 - [Highlighter](#Highlighter)
 - [Contour](#Contour)
+- [Brushes](#Brushes)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -67,7 +68,7 @@ Below you can find a list of products you can use and a little comment what it d
 - Eyeliner, used to create a shape around your eyes to enhance the look
 - Eyeshadow, used to create a gradual color change on your upper eyelids and eyebrows
 - Mascara, used to give your eyelashes more volume
-- Eyebrow pencil, used to shape your eyebrows and give them more color
+- Eyebrow products, used to shape your eyebrows and give them more color
 - Lipstick, gives color and certain finish to your lips
 - Lipliner, used to give your lips a different shape usually to make them look bigger
 - Setting spray, used to make sure your makeup stays in place
@@ -257,3 +258,47 @@ The shape of the nose is quite unique to everyone, in general you want to make i
 When you have placed your highlighters and contours where you want them, then it is time to blend it all in. The process how to use it has already been discussed in this guide, but as a refresher, you are supposed to use slightly damp makeup sponge and using dotting and dabbing motions to blend the makeup together. Here is a video example that shows the process in quite good details:
 
 [![Blending](https://img.youtube.com/vi/7uw5W8ZVOIs/0.jpg)](https://www.youtube.com/watch?v=7uw5W8ZVOIs)
+
+# Brushes
+
+As we progress through the makeup application routine, we see that makeup brushes are used in a few steps, but to you it might seem that at this point you don't need brushes to apply makeup. While you can apply your makeup with just fingers and even use your fingers to blend it in, your fingers are very limited when it comes to creating a natural makeup look. Even if you did manage to put on your makeup with just fingers, it is going to get a lot more complicated in further chapters without using makeup brushes.
+
+There are a wide variety of makeup brushes, it might not even be possible to list them all since there probably is a brush for each type of makeup look, below you will find some very common brushes that you might want to incorporate into your makeup routine.
+
+Note: Most brushes are meant to only apply powder form products, but there are a few exceptions that will be mentioned in the guide.
+
+**Powder brush** is used to apply your makeup that is in powder form, but due to its size it is usually limited to applying powder foundation or setting powders. More dense bristles will give you more coverage when applying a powder. Below you can find an example:
+
+![Brush powder](brush_powder.jpg "Brush powder")
+
+**Blush brush** is used to apply blush on your cheekbones, it is usually very similar in size and shape to a powder brush, but tends to have a more "dome shaped" soft bristles. A small and dense brush will create a "pop" effect for your cheeks, a medium dome shaped brush will create a more subtle effect, but an angled blush brush is going to give you the most natural look. Below you can find an example (dome-shaped on the left, angled to the right):
+
+![Brush blush](brush_blush.jpg "Brush blush")
+
+**Contour brush** is used to apply your contour, but there are multiple shapes of the brush and each shape has its own usage. The most common contour brush is wide (sometimes fan shaped) and used to apply contour on your cheekbones, jawline and other places where you can draw straight lines, but a concentrated brush will be more useful for smaller areas. There are also angled contour brushes that tend to give a more natural look. You can use concentrated hard bristle brushes to apply a liquid form contour. The fan shaped brush is usually used to apply bronzer. Below you can find examples of a contour brush:
+
+![Brush contour](brush_contour.jpg "Brush contour")
+
+Note: These brushes can be used to apply highlighter as well, make sure you clean them properly before using your next product!
+
+**Concealer brush** is used to apply your concealer, it is recommended to use synthetic bristles rather than natural bristles since natural bristles are harder to clean. You can use to spread your liquid concealer with these brushes since they tend to have harder and more concentrated bristles than other brushes. Below you can find an example:
+
+![Brush concealer](brush_concealer.jpg "Brush concealer")
+
+**Eyeshadow brush** is used to apply eyeshadow, but they come in large variety. A Flat eyeshadow brush is concentrated and stiff, will give easily layer your eyeshadow on the flat parts of your eyelids. Dome eyeshadow brush is less stiff, but the dome shape gives you the ease to apply eyeshadow into creases. Blending brush helps you to blend eyeshadow more easily. Pencil brush is used to apply eyeshadow on your inner eye corners since it requires a lot of precision. Angled eyeshadow brush is used to create a shadow line above your lashes. Bellow you can find examples of the various eyeshadow brushes:
+
+![Brush eyeshadow](brush_eyeshadow.jpg "Brush eyeshadow")
+
+**Lip brush** is usually used to apply your lip gloss, the tapered brush gives you precision to apply your lip makeup and waste less actual product. These brushes are mostly used on some liquid form of lip makeup. Below you can find an example:
+
+![Brush lips](brush_lips.jpg "Brush lips")
+
+**Brow brush** is used to apply your eyebrow products, some products come with their own eyebrow brush, but some pomades, powders and gels will not come with a brush. These brushes usually come with 2 sides, one side resembles a mascara comb, but the other is a flat tapered brush. The comb part is used to comb your eyebrows and apply makeup on them, but the tapered part is used to draw your eyebrows and give them more distinct shape. Of course, these can be two separate brushes as well. Below you can find an example:
+
+![Brush eyebrow](brush_eyebrow.jpg "Brush eyebrow")
+
+Note: There are many, many, many more brushes, but as you might have noticed some of them are very similar. In fact, you are very likely to be able to use the same brush for multiple purposes.
+
+**IMPORTANT:** Makeup brushes need to be cleaned, often! You should wash your brushes at least once a week with lukewarm water and gentle (non-scented) hand soap. These brushes tend to gather bacteria that can cause you acne. These brushes also tend to gather excess makeup material and cause them to be more stiff or loose their shape, this will greatly impact the quality of your makeup. There are special cleaners for your makeup brushes as well.
+
+These brushes come not in just various sizes and shapes, but also in various prices. We are not going to discuss the true value of expensive brushes, there are reasons why some brushes cost a lot more. There are claims that expensive brushes have a great effect on the overall result, but there are also opposite claims. It is your choice. Do keep in mind that if you are a beginner, then buying professional tools will not make you a professional, you still need to practice your skills. Some brushes tend to be more expensive because of the natural bristles, but there are cases when synthetic bristles are more desirable, one case is mentioned above. If you are on a budget, consider getting a cheaper set of brushes, but as your skill grows with practice, you might want to give some more expensive brushes a try.
