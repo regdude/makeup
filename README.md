@@ -11,6 +11,7 @@
 - [Highlighter](#Highlighter)
 - [Contour](#Contour)
 - [Brushes](#Brushes)
+- [Powders](#Powders)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -132,7 +133,7 @@ Note: Many people use BB creams or tinted sunscreens to hide their skin imperfec
 
 Foundations come in liquid and powder form. Similar to color correctors, liquid foundations tend to give you more coverage, but powder foundation tends to be more forgiving to acne. They do create different types of looks too. Their application method does differ so read on to find which method you should use. There are also mousse, stick and cream (BB/CC), these foundations are similar to liquid foundation and their application method does not differ much, consider using mousse foundation if you are a beginner and want to  
 
-Liquid foundations can be applied by simply adding a small amount on your palms and rubbing it on your face. Try not to use too much foundation and don't worry about getting a perfect coverage either, that is where the next product is going to be useful. Similar to color correctors, you should use a makeup sponge to blend in your makeup, focus on the areas, where foundation ends, usually the neck area. Blend these edges as best as you can with a makeup sponge so the transition looks even. Use the makeup sponge to blend the foundation starting from the center of the face to outwards of the face, this will create a more natural look.
+Liquid foundations can be applied by simply adding a small amount on your palms and rubbing it on your face. Try not to use too much foundation and don't worry about getting a perfect coverage either, that is where the next product is going to be useful. Similar to color correctors, you should use a makeup sponge to blend in your makeup, focus on the areas, where foundation ends, usually the neck area. Blend these edges as best as you can with a makeup sponge so the transition looks even. Use the makeup sponge to blend the foundation starting from the center of the face to outwards of the face, this will create a more natural look. Another way to put on liquid foundations is to use a foundation brush, this will give you an even more natural look and better coverage.
 
 Powder foundation can be applied using a foundation brush, use your brush rub in a small amount of foundation powder and apply to your face in circular motions. Start from the center of the face and gradually move in circular motions outwards of the face. This will create an even and natural look. You can use the makeup sponge to blend any sharp edges you might have.
 
@@ -144,6 +145,14 @@ You can achieve different kinds of looks with just the foundation, there are 3 m
 While you can choose any type of finish, it is highly recommended to choose the finish based on your skin type. Oily skin type should use a matte finish since the skin tends to create excess sebum and create extra shine for the face. Dry skin type should use a dewy finish to add a little bit of shine and hydration. Luminous finish would work the best for normal skin type. Liquid foundations tend to be with dewy or luminous finish, but powder foundations tend to be with a matte finish. 
 
 Note: You can use a little more foundation on areas, where you need extra coverage. Men would benefit of using more foundation on their beard area to hide beard shadow.
+
+Below you can find a video instruction how to apply liquid form foundation:
+
+[![Liquid foundation](https://img.youtube.com/vi/Ena87AGcWyc/0.jpg)](https://www.youtube.com/watch?v=Ena87AGcWyc)
+
+Below you can find a video instruction how to apply powder form foundation:
+
+[![Powder foundation](https://img.youtube.com/vi/wU0Kpfc0c4U/0.jpg)](https://www.youtube.com/watch?v=wU0Kpfc0c4U)
 
 # Concealer
 
@@ -265,8 +274,6 @@ As we progress through the makeup application routine, we see that makeup brushe
 
 There are a wide variety of makeup brushes, it might not even be possible to list them all since there probably is a brush for each type of makeup look, below you will find some very common brushes that you might want to incorporate into your makeup routine.
 
-Note: Most brushes are meant to only apply powder form products, but there are a few exceptions that will be mentioned in the guide.
-
 **Powder brush** is used to apply your makeup that is in powder form, but due to its size it is usually limited to applying powder foundation or setting powders. More dense bristles will give you more coverage when applying a powder. Below you can find an example:
 
 ![Brush powder](brush_powder.jpg "Brush powder")
@@ -302,3 +309,18 @@ Note: There are many, many, many more brushes, but as you might have noticed som
 **IMPORTANT:** Makeup brushes need to be cleaned, often! You should wash your brushes at least once a week with lukewarm water and gentle (non-scented) hand soap. These brushes tend to gather bacteria that can cause you acne. These brushes also tend to gather excess makeup material and cause them to be more stiff or loose their shape, this will greatly impact the quality of your makeup. There are special cleaners for your makeup brushes as well.
 
 These brushes come not in just various sizes and shapes, but also in various prices. We are not going to discuss the true value of expensive brushes, there are reasons why some brushes cost a lot more. There are claims that expensive brushes have a great effect on the overall result, but there are also opposite claims. It is your choice. Do keep in mind that if you are a beginner, then buying professional tools will not make you a professional, you still need to practice your skills. Some brushes tend to be more expensive because of the natural bristles, but there are cases when synthetic bristles are more desirable, one case is mentioned above. If you are on a budget, consider getting a cheaper set of brushes, but as your skill grows with practice, you might want to give some more expensive brushes a try.
+
+# Powders
+
+Powders give your makeup a nice finishing touch, but some powders have a distinct function, though most powders will have a similar function. Below you can find a list of most common powders and their use case:
+- Setting powder, used to "set" your foundation and contouring in so it stays in place throughout the day, some of these powders get rid of shine
+- Finishing powder, used to conceal fine lines and pores, they tend to be with a little whitish color (don't over do it), gives you an airbrushed look
+- Loose powder, used to create a little bit of coverage, is quite messy to use since it is a powder in loose form
+- Pressed powder, used as a touch up powder to conceal small imperfections on the go
+- Translucent powder, a colorless powder that removes shine from your face without changing the color of your contour or highlighter, creates an even look, similar to a finishing powder
+
+As you can see, some of the powders essentially do the same thing, but can have a slightly different effect. Each manufacturer specifies what kind of effect does their powder create, it can be a mattifying effect or dewy effect, it can be a colorless or tinted powder. The idea of the powder is to create a finishing touch, the choice of the powder will mostly determine the finish of your makeup. You probably can layer multiple powders, but be careful to not create a completely lifeless look due to a thick makeup layer.
+
+The way you apply your powder is by a dotting motion to prevent the powder getting too deep inside your wrinkles and pores. Check the video instruction below:
+
+[![Powder](https://img.youtube.com/vi/kOFQmCOfWH8/0.jpg)](https://www.youtube.com/watch?v=kOFQmCOfWH8)
