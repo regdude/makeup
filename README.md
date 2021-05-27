@@ -12,6 +12,7 @@
 - [Contour](#Contour)
 - [Brushes](#Brushes)
 - [Powders](#Powders)
+- [Bronzer](#Bronzer)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -324,3 +325,21 @@ As you can see, some of the powders essentially do the same thing, but can have 
 The way you apply your powder is by a dotting motion to prevent the powder getting too deep inside your wrinkles and pores. Check the video instruction below:
 
 [![Powder](https://img.youtube.com/vi/kOFQmCOfWH8/0.jpg)](https://www.youtube.com/watch?v=kOFQmCOfWH8)
+
+# Bronzer
+
+The purpose of a bronzer is to create sun-tanned spots on your face, this usually is done on same areas, where you apply your contour, but you can mix both contouring with bronzing to create a tanned-like skin throughout the year. Bronzers come in two very different styles:
+- Shimmering, creates a shine, not suitable for areas where your skin is already shiny (due to oily skin), should not be used throughout your face in large quantities as it can create too much shine
+- Matte, creates a matte effect, great for contouring your face, does not create shine
+- Sheer, a middle ground between shimmering and matte bronzer
+
+As with other makeup products, bronzer too comes in various forms, they can be liquid, powder, cream and other forms. Choose your bronzer type based on your personal preference as powder bronzers will give less coverage, but cream bronzers will create more coverage. Be aware that creating too much tanned-like skin on certain areas only will make your makeup look a lot less well done.
+
+To apply your bronzer, you must use a brush and the selection of the brush is going to be based on the type of bronzer you have picked. For shimmering bronzers consider using a wider and less dense brush, a foundation or fan brush will be good for this purpose. For matte bronzers you can use a contour brush and create more concentrated bronzer lines. Bellow you can find an image of a shape you can use to apply the bronzer:
+
+![Bronzer](bronzer.jpg "Bronzer")
+
+Note: These bronzer lines can interfere with your contouring, as a result your attempts to sculpt your face might be counteracted with a bronzer. Consider not using bronzer on areas, where you have not used a contour. 
+
+*TIP:* A bronzer is quite commonly used as contour, but mostly matte bronzers are used for this purpose. Shimmering bronzers can be used too, but you should apply it starting from the center of your face and draw straight lines towards the side of your face.
+
