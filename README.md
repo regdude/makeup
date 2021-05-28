@@ -343,3 +343,8 @@ Note: These bronzer lines can interfere with your contouring, as a result your a
 
 *TIP:* A bronzer is quite commonly used as contour, but mostly matte bronzers are used for this purpose. Shimmering bronzers can be used too, but you should apply it starting from the center of your face and draw straight lines towards the side of your face.
 
+Below you can find a video instruction how you can apply a bronzer:
+
+[![Bronzer usage](https://img.youtube.com/vi/wlDje9RJlNY/0.jpg)](https://www.youtube.com/watch?v=wlDje9RJlNY)
+
+Note: Bronzer is usually applied after using finishing or setting powder, this is because applying powders after you used a bronzer can make the bronzer appear smeared. Consider applying the bronzer after your powders to create more defined look.
