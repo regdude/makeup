@@ -326,6 +326,8 @@ The way you apply your powder is by a dotting motion to prevent the powder getti
 
 [![Powder](https://img.youtube.com/vi/kOFQmCOfWH8/0.jpg)](https://www.youtube.com/watch?v=kOFQmCOfWH8)
 
+Note: Some powders come with their own cotton disk, this is meant to be used instead of a brush, but keep in mind that a dedicated brush can give you more precision when you apply the powder. The cotton disk is great to apply powder on large areas in a little amount of time.
+
 # Bronzer
 
 The purpose of a bronzer is to create sun-tanned spots on your face, this usually is done on same areas, where you apply your contour, but you can mix both contouring with bronzing to create a tanned-like skin throughout the year. Bronzers come in two very different styles:
