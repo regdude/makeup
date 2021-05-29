@@ -13,6 +13,7 @@
 - [Brushes](#Brushes)
 - [Powders](#Powders)
 - [Bronzer](#Bronzer)
+- [Blush](#Blush)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -67,12 +68,11 @@ Below you can find a list of products you can use and a little comment what it d
 - Powders, various powders achieve various look and serves a certain function
 - Bronzer, used to make your cheekbones tan-colored
 - Blush, used to make your cheekbones flushed-colored
-- Eyeliner, used to create a shape around your eyes to enhance the look
 - Eyeshadow, used to create a gradual color change on your upper eyelids and eyebrows
+- Eyeliner, used to create a shape around your eyes to enhance the look
 - Mascara, used to give your eyelashes more volume
 - Eyebrow products, used to shape your eyebrows and give them more color
-- Lipstick, gives color and certain finish to your lips
-- Lipliner, used to give your lips a different shape usually to make them look bigger
+- Lip products, gives color, shape and certain finish to your lips
 - Setting spray, used to make sure your makeup stays in place
 
 Note: Most of these products are optional and some of them can be replaced with other products or combined products. The bare minimum usually is foundation, some contour along with highlighter, mascara, but even these products can be skipped or replaced, it is all based on personal preference and requirements.
@@ -350,3 +350,27 @@ Below you can find a video instruction how you can apply a bronzer:
 [![Bronzer usage](https://img.youtube.com/vi/wlDje9RJlNY/0.jpg)](https://www.youtube.com/watch?v=wlDje9RJlNY)
 
 Note: Bronzer is usually applied after using finishing or setting powder, this is because applying powders after you used a bronzer can make the bronzer appear smeared. Consider applying the bronzer after your powders to create more defined look.
+
+# Blush
+
+Blush is used to add color to your cheeks, this creates an illusion that the face is lifted and more younger looking. It comes in a wide variety of red shades to create a look you are after. Similar to other makeup products, blush comes in various forms, such as powder, cream, liquid, stick, pressed powder and other forms. Choosing the right blush is a personal preference, the powder form will give you the most natural look, liquid forms will give you more precision, but will create very defined lines, that might not look very natural and needs some blending to be done.
+
+Note: Blushes are supposed to be applied after your setting powder or finishing powder, but if you use liquid form blushes, you might want to use it before your finishing and setting powder to make it look more blended in with the other makeup. Powder form blushes create a light touch of red tone that does not need to be blended and in general will stay on even if you put it on after your setting powder, but this is something you might want to experiment.
+
+There are many ways you can apply your blush, each method has its benefits and gives you a different kind of look. Similar to a bronzer, applying a blush will interfere with your contouring. For the mentioned reason you might benefit the most by applying blush based on your face shape. Blush will bring a lot of attention to itself so putting plush on your contour spots might make the most sense. Check the following image to determine possible blush placements based on your face shape:
+
+![Blush facee shape](blush_faceshape.jpg "Blush face shape")
+
+Based on your face shape, you can decide where to place your blush. If you place your blush directly on your cheekbones, you are going to create a more youthful look, but if you place more blush higher than your cheekbones and more to the outside of your face, then you are going to create a more lifted look. Based on these two looks you can create, you will generally have two methods how to apply the blush.
+
+The first way to apply blush is using a natural smile. You simply smile (don't exaggerate) and place blush directly on the "apples" of your cheekbones that are now clearly visible. Use your blush brush (an angled brush is most suitable for this), pickup a small amount of product and apply it to your cheekbones lightly (don't use it too much at first) in circular motions and spread lightly towards your ear. Check the video instruction below:
+
+[![Blusher apples cheekbones](https://img.youtube.com/vi/ftBgfh7L_Bo/0.jpg)](https://www.youtube.com/watch?v=ftBgfh7L_Bo)
+
+Note: While you are smiling, your "apples" of your cheekbones are higher up, but they are lower when you stop smiling. This is not an issue for young people, but for older people this creates an illusion that the face is saggy. Consider not applying your blush directly on the "apples" of your cheekbones, if you don't have a very well sculpted face, with no wrinkles and so on.
+
+A much more suitable blush application method is to apply it to your actual cheekbones that are right under your eyes. In this method you should not smile and you should keep a very neutral face. For a round shape face you find your cheekbones and start applying your blush starting from a line that crosses somewhere in the middle of your eyes and sweep upwards to your upper earlobe starting from your cheekbones. For square faces you similarly start from a line that crosses the middle of your eyes and apply blush more on your cheekbones and then sweep upwards to your upper earlobe, more blush should be concentrated on the "apples" of your cheekbones. For oval and long faces you start from a line that crosses the middle of your eyes and sweep in a straight line towards the center of your face. Check the video instruction below:
+
+[![Blusher face shape](https://img.youtube.com/vi/F-IbkkFsYXU/0.jpg)](https://www.youtube.com/watch?v=F-IbkkFsYXU)
+
+Note: You can use a contour, a bronzer and a blusher and it does create a very well sculpted look, if done properly. You should apply your contour first, then apply your bronzer and then apply your blusher above the bronzer. 
