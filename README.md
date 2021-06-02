@@ -14,6 +14,7 @@
 - [Powders](#Powders)
 - [Bronzer](#Bronzer)
 - [Blush](#Blush)
+- [Eyeshadow](#Eyeshadow)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -51,6 +52,22 @@ Before you go and try to create your own look, consider finding a picture or a v
 - Lip shape
 
 Obviously you will not find a clone of yourself online, at least not yet, but you can still find someone that has some features as you do and find another person with other similar features. With this approach you will have an idea of a look you want to achieve and from there it can be just a matter of practice. Makeup has its limits, but it is very powerful when transforming a person, so do some research to find things you like on your own.
+
+If you are unsure about the look you want to achieve, you can always start by picking the colors. There are certain colors that look good on a certain skin color and this is usually a starting point for many people that want to create their own look. You are always free to experiment with your own colors, but below you can find a guideline based on your skin color:
+
+![Look fair](look_fair.jpg "Look fair")
+
+![Look light](look_light.jpg "Look light")
+
+![Look medium](look_medium.jpg "Look medium")
+
+![Look deep](look_deep.jpg "Look deep")
+
+Your skin color is going to play the major role to determine the colors you will use, but you do need to find your skin's undertone and it can be different for various skin tones. Skin's undertone is the color that resides beneath the top layer of your skin and is slightly visible. There are multiple ways to test your skin's undertone, you might want to find exact guides on this topic, but a common way is to put on a pure white t-shirt and stand in a natural light in front of a mirror. If your face looks bluish or pinkish compared to the white t-shirt, then your skin's undertone is "cool". If your face looks yellowish, then you are most likely having a "warm" undertone. If you don't seem to look good when wearing white clothes, but don't appear to be bluish or pinkish, then you are possibly a "warm" skin's undertone. If you find that you can wear off-white (gray, caramel) color clothes and white color clothes without looking washed out, then it is possible you are a "neutral" undertone. If you notice that you appear slightly greenish, then you might be an "olive" undertone. Below you can find a comparison between various skin's undertone:
+
+![Look undertone](look_undertone.jpg "Look undertone")
+
+Note: Choosing your makeup color based on your skin is only one method. You can match colors based on specific features, for example, match makeup colors with your outfit or match your eyeshadow with your lipstick.
 
 In general, there is a certain order how you should apply your makeup, but this is not definitive, you can easily change your makeup application order (to some extent) to achieve a different kind of look. The order you apply your makeup is important, but as long as you follow a few simple principles, you can adjust your look to your own liking. 
 
@@ -154,6 +171,8 @@ Below you can find a video instruction how to apply liquid form foundation:
 Below you can find a video instruction how to apply powder form foundation:
 
 [![Powder foundation](https://img.youtube.com/vi/wU0Kpfc0c4U/0.jpg)](https://www.youtube.com/watch?v=wU0Kpfc0c4U)
+
+*TIP:* Consider picking the foundation's color based on your skin's undertone too. Sometimes you cannot find a single tone that matches your skin, you can try to mix two foundations together to create a new tone.
 
 # Concealer
 
@@ -359,9 +378,11 @@ Note: Blushes are supposed to be applied after your setting powder or finishing 
 
 There are many ways you can apply your blush, each method has its benefits and gives you a different kind of look. Similar to a bronzer, applying a blush will interfere with your contouring. For the mentioned reason you might benefit the most by applying blush based on your face shape. Blush will bring a lot of attention to itself so putting plush on your contour spots might make the most sense. Check the following image to determine possible blush placements based on your face shape:
 
-![Blush facee shape](blush_faceshape.jpg "Blush face shape")
+![Blush face shape](blush_faceshape.jpg "Blush face shape")
 
 Based on your face shape, you can decide where to place your blush. If you place your blush directly on your cheekbones, you are going to create a more youthful look, but if you place more blush higher than your cheekbones and more to the outside of your face, then you are going to create a more lifted look. Based on these two looks you can create, you will generally have two methods how to apply the blush.
+
+*TIP:* Consider picking your blush colors based on your skin's color. Check the [The look](#The-look) section.
 
 The first way to apply blush is using a natural smile. You simply smile (don't exaggerate) and place blush directly on the "apples" of your cheekbones that are now clearly visible. Use your blush brush (an angled brush is most suitable for this), pickup a small amount of product and apply it to your cheekbones lightly (don't use it too much at first) in circular motions and spread lightly towards your ear. Check the video instruction below:
 
@@ -374,3 +395,46 @@ A much more suitable blush application method is to apply it to your actual chee
 [![Blusher face shape](https://img.youtube.com/vi/F-IbkkFsYXU/0.jpg)](https://www.youtube.com/watch?v=F-IbkkFsYXU)
 
 Note: You can use a contour, a bronzer and a blusher and it does create a very well sculpted look, if done properly. You should apply your contour first, then apply your bronzer and then apply your blusher above the bronzer. 
+
+# Eyeshadow
+
+Eyeshadow is used to create depth for your eyes, compliment your eye color, draw more attention to them, make them appear bigger or smaller. It is a very powerful tool to enhance your look and mastering it can be quite hard. Similar to other makeup products, eyeshadow comes in various forms, they can be in powder, cream, liquid, mousse and pencil and other forms.
+
+Note: Using eye primer (or primer that can be used on your eyelids) will make it easier to apply eyeshadow and will make sure it sticks to your eyelids for longer periods of time. Simply apply a small amount of your primer to your finger tips and apply it on your eyelids in a dotting motion.
+
+Eyeshadows come in various finishes and it can have a great effect on the overall look. There are many finishes and each brands seems to market their finishes in their own names, but here are some common finishes that you might be interested in and what kind of effect does it have on your overall look:
+- Matte, a classic finish that is well suitable for all ages, especially for mature skin since it will not draw attention to wrinkles
+- Metallic, creates a very shiny finish that makes all fine lines very well visible, resembles gold, silver or other metals depending on the color
+- Shimmer, a very subtle amount of shine
+- Glitter, usually requires a tacky base, it looks like glitter on your eyes, not suitable for mature skin
+
+*TIP:* Consider picking your eyeshadow colors based on your skin's color and skin's undertone. Check the [The look](#The-look) section.
+
+Another way to pick your eyeshadow colors is based on the skin's undertone. Below you can find some recommendations how to match a skin color, an undertone and an eyeshadow:
+- Light skin with warm undertone: dull bronze
+- Light skin with cool undertone: washed out copper
+- Medium skin (usually warm): gold, cinnamon, warm red
+- Olive undertone: teal
+- Tanned skin (usually neutral): try anything!
+- Dark skin: bright metallic colors
+
+It is possible to buy either a single color eyeshadows, they are useful when you know exactly what color you need and a single eyeshadow color is cheaper, but if you start to use multiple colors, then you will not some kind of compartment to manage them and the price for multiple eyeshadows quickly add up. More common option is to get an eyeshadow palette, they can include anywhere from 2 to even 30 colors (or maybe even more) and you can even mix multiple colors to create your own unique color. Eyeshadows come in various price ranges, the price will not directly reflect the quality of the eyeshadow. The difference between a good and a bad eyeshadow is that good eyeshadow blends well, spreads easily, has a strong pigment, lasts all day and does not irritate your skin or your eyes.
+
+Note: Mature skin has fine lines around the eye area, these fine lines can make applying eyeshadow (and other makeup products) harder, you should use a primer on your eye area, but you can also apply a concealer to reduce the appearance of fine lines and make the eyeshadow application easier.
+
+Some people have smaller eyes than other people do, depending on your look, you might want to either make them appear larger or smaller. Men tend to have smaller and deeper eyes, so to achieve a more feminine look they should avoid using dark colors for their eyeshadow, consider using light tones and apply slightly darker tones on the eye creases. To make eyes look smaller, you should use darker colors, especially right around your eyelids where you would put your eyeliner.
+
+The actual application of an eyeshadow can be made very complex using 12 different brushes, multiple layers of eyeshadows and a lot of blending, though it can be made simple. There are many techniques for you to use, but mostly they are unique to each person, for this reason we are going to look at a common and basic method how eyeshadow is being applied. Start by applying your primer, then apply a neutral color using a medium eyeshadow brush, this is something between the darkest color and the lightest color you have chosen to use. After you have a neutral color as your base, use an eyeshadow crease brush and blend in a dark color into your eye's crease, start with a little amount of product on the inner corner of your eye and increase the thickness of the crease line gradually as you move along to the outer corner of your eye, remember to blend the darker color into the base color as much as you can using the crease brush, the eyeshadow crease creates a dramatic look for your eyes that always looks flattering. You should extend the darker color or even use a different dark color to the outer corner of your eyelid. Optionally you can apply a highlighter or a light color eyeshadow above your eyes up to the brow bone (no on the brow bone) using a blending brush. Apply a light color in the inner corner of your eye lid, use a pinky finger here instead of a brush to make it look more natural, press lightly so you don't apply too much color. If needed, use a blending brush to create a more even look between different colors.
+
+Below you can find a video tutorial that uses a very similar eyeshadow application method:
+
+[![Eyeshadow application](https://img.youtube.com/vi/d8bct2_ix4U/0.jpg)](https://www.youtube.com/watch?v=d8bct2_ix4U)
+
+Like mentioned above, the techniques are almost countless, so the best approach is to find a tutorial on your own that matches the look you are after. Below you can find common eyeshadow looks that you can get an inspiration from:
+- Natural
+- Shimmery
+- Cat-eye
+- Gradient
+- Halo
+- Cut crease
+- Smoky eye
