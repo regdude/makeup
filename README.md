@@ -17,6 +17,7 @@
 - [Blush](#Blush)
 - [Eyeshadow](#Eyeshadow)
 - [Eyeliner](#Eyeliner)
+- [Mascara](#Mascara)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -497,3 +498,57 @@ The most common look that most people are after is the "winged-eye look" that cr
 ![Eyeliner part 2](eyeliner_part2.jpg "Eyeliner part 2")
 
 *TIP:* If you don't have a great eyesight, then you might have troubles applying eyeliner. Consider using a magnified makeup mirror.
+
+# Mascara
+
+Mascara gives your eyelashes more volume, lengthen them, thicken them and adds color to them. Females tend to have longer to compensate the larger eyes than males, but most women still want to make them appear even larger and mascara is a quick way to enhance them and give an instant feminine look. While there are cream and powder form mascaras, you will mostly be looking at liquid mascaras and those are the most common you will see. Mascaras have different types of formulas and they tend to fall into the following categories by their effect:
+- Lengthening mascara, adds extra fibers on the tip of your eyelashes, comes with a denser brush and requires multiple coatings of mascara, suited for those with short eyelashes
+- Volumizing mascara, adds extra thickness to your eyelashes, usually contains waxes and silicones that stick to your eyelashes and don't change the shape of your eyelashes, suited for those with thin eyelashes
+- Curling mascara, enhances the natural curve of your eyelashes, the consistency is very thick and can be hard to apply
+- Lash defining mascara, a combo mascara that lengthens, volumizes and curls your eyelashes, but it also prevents eyelashes from sticking together, which makes this mascara suited for everyday use
+- Non–clumping mascara, does not create the clumping effect many mascaras create, also adds a nice finish to them
+
+Note: Mascaras are available in waterproof and non-waterproof formulas. If any liquid comes in contact with a mascara and it is not a waterproof one, then mascara will smudge. On the other hand, non-waterproof mascaras can easily be washed off, but waterproof mascaras usually come off with strong makeup removers that might irritate your eyes.
+
+The application of mascara is something that is tricky, you need to practice a lot to get it right for your selected mascara. Luckily there are multiple mascara wands that are available that can help you with your application, you can find information about various available mascara wands below:
+- Classic mascara wand, creates a more volumizing effect
+- Tapered comb mascara wand, makes it easier to apply mascara on your inner corners of your eyes and more product is added on the outer corner, creates a cat-eye look, not good at volumizing eyelashes
+- Curved comb mascara wand, creates more curled eyelashes, comb minimizes the changes of the clumping effect
+- Micro wand, great for achieving a defined eyelash look, makes it easy to apply mascara on your lower eyelashes
+- Fat brush wand, creates a doll-eyed look by making eyelashes more voluminous
+- Precision tip wand, great for adding mascara for very tiny and hard to reach eyelashes
+- Ball wand, creates the most coverage possible, but you need to apply mascara multiple times
+- Ball tip wand, great for reaching small eyelashes
+- Corkscrew wand, similar to the classic mascara wand, but creates good coverage and good volume
+- Comb bristle wand, create a lot of volume and length, it also gives you definition for your eyelashes, creates a dramatic look
+- Skinny wand, great for adding length and definition to your eyelashes, not great for volumizing your eyelashes
+- Triple ball wand, creates a dramatic full coverage look by curling while you apply mascara
+
+![Mascara part 1](mascara_part1.jpg "Mascara part 1")
+
+![Mascara part 2](mascara_part2.jpg "Mascara part 2")
+
+![Mascara part 3](mascara_part3.jpg "Mascara part 3")
+
+![Mascara part 4](mascara_part4.jpg "Mascara part 4")
+
+Note: Mascaras come in various colors, they can be black, brown and transparent. Consider getting a mascara that matches your eyeliner's color.
+
+Mascaras are limited to what they can do when it comes to curling them, therefore you should consider using a separate eyelash curler. Such a device can make your eyelashes look longer, thicker and fuller. Using the device is fairly simple, just take your eyelash curler, place it as close as you can to your eyelids, press the curler for 5 seconds, then move away from your eyelids, squeeze the curler again, then move further away and squeeze it again for another 5 seconds to curl your eyelashes in all their length. There is a trick that you can use to make your eyelashes curl even more and stay curled all day long, this can be done with a hair dryer. Simply heat up your eyelash curler just a little bit before each squeeze, but be very careful, the eyelash curler gets very hot fast and it will feel a lot hotter on your eyelids.
+
+Note: Make sure you have properly cleaned your eyelashes from previous mascara. It is possible that your eyelashes can fall out if you curl them with mascara on your eyelashes.
+
+When your eyelashes are curled, you are ready to apply mascara on your eyelashes. This is the part that requires a lot of practice, but some people have discovered some neat tricks that can help. Take your mascara un take as least amount of product you can with your mascara's wand, wiggle the wand around the bottle to remove excess material from the wand. Place the mascara's wand to your eyelashes and wiggle the wand into your eyelashes from side to side. After that you can apply mascara to the tip of your eyelashes and this can be done by blinking your eyelashes into the wand. Apply your mascara also on your lower eyelashes by gently touching them with your mascara's wand.
+
+*TIP:* Mascara smudges easily when you miss your eyelashes, there are mascara's applier guide tools that can prevent you from smudging your eye makeup.
+
+Some people are not so lucky with their natural eyelashes and mascara with an eyelash curler is limited in its abilities. One solution is to use eyelash serums, but many of the advertised eyelash serums are not very effective without a prescription. To find a good eyelash serum you should look for one of these ingredients in them, some of them are still only available with prescription in some countries:
+- Bimatoprost
+- Latanoprost
+- Tafluprost
+- Travoprost
+- Isopropyl Cloprostenate
+- Isopropanol phenylhydroxypentene dihydroxycyclopentylheptenate
+- Trifluoromethyl Dechloro Ethylprostenolamide
+
+Eyelash serums work very slow, you can only see some results in 1 month and they are going to be very minimal at first. Another option is to use fake eyelashes, but as of now, this is going to be out of this guide's scope.
