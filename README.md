@@ -15,6 +15,7 @@
 - [Bronzer](#Bronzer)
 - [Blush](#Blush)
 - [Eyeshadow](#Eyeshadow)
+- [Eyeliner](#Eyeliner)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -438,3 +439,42 @@ Like mentioned above, the techniques are almost countless, so the best approach 
 - Halo
 - Cut crease
 - Smoky eye
+
+*TIP:* If you don't have a great eyesight, then you might have troubles applying eyeshadow. Consider using a magnified makeup mirror.
+
+# Eyeliner
+
+The purpose of the eyeliner is to draw more attention to your eyes, either by enhancing them or by changing their shape. Mastering eyeliner is probably going to be one of the hardest tasks in makeup since it requires a lot of practice. Feel free to practice eyeliner at every moment you can. There are 4 main eyeliner types and all of them can be either waterproof or non-waterproof:
+- Pencil, comes in a sharpenable or in a retractable form
+- Cream 
+- Gel
+- Liquid, comes in a pen shape or bottled brush tip shape
+
+Each type of eyeliner has its own benefits, but have some drawbacks as well:
+- Pencil eyeliner is best for beginners, easy to use, cheap, but cannot create a sharp line
+- Cream/gel eyeliner, cream eyeliner is thicker than gel eyeliner, possible to create a smooth line, a bit easier to use than liquid eyeliner, glides smoothly, but they require an eyeliner brusher and can be more expensive
+- Liquid eyeliner creates the sharpest line possible, but can be very hard to apply it and hard to fix mistakes
+
+There are many colors available for the eyeliners, but you are mostly going to be interested in either black or brown eyelines (depending on your lashes) and in a white eyeliner. The white eyeliner is useful create an illusion of larger eyes that is especially useful for those, who want to create more feminine looking eyes. The technique is quite simple, you use a white pencil eyeliner and apply a very thin line exactly on the top of your lower eyelid, check the image below to better understand the white eyeliner placement:
+
+![Eyeliner white](eyeliner_white.jpg "Eyeliner white")
+
+*TIP:* Apply your white eyeliner to the inner corner of your eyes to make them appear even larger.
+
+There are many techniques how to apply eyeliner on top of your upper eyelashes, this technique can be used for all types of eyeliners and you can easily adjust it to create your desired look. Start by taking your picked eyeliner and apply a steady line above your eyelash on the outer half of your eye. You can rest your elbow on the table to increase precision. Close one of your eyes and create short strokes starting from the middle of your eye to the outer corner of your eye, you can increase the thickness as much as you want. Extend the line you draw each time, but don't go too much further from your actual eye corner, this will create a natural looking extended eye. Fill in all the gaps you have between eyelashes and between your eyeliner. See the image below to see an example how the outer part of your eye should look:
+
+![Eyeliner part 1](eyeliner_part1.jpg "Eyeliner part 1")
+
+Note: Avoid extending your eye line at this point, creating the "winged-eye look" should be done after the base part is drawn. If you extend the drawn line too far at this point, you will make your eyes look tired
+
+When the outer part of your eye is finished, repeat the process for the inner part of your eyes. Use short strokes from the inner corner of your eye and draw a line to the middle of your eye. Try to keep this part of eyeliner thinner then the outer part of your eye. Fill out the gaps between eyelashes and between your eyeliner. The eyeliner should be very thing on the inner corner of your eye and become thicker to the outer corner of your eye. Use a Q-tip to fix imperfections you have made with your eyeliner.
+
+*TIP:* You can use a Q-tip to smudge the eyeliner and create a "smoky look".
+
+Note: You can apply a dark eyeliner on the lower lid of your eye to create a dramatic look, but this can make your eyes appear smaller. Also the lower lid's eyeliner must be very thin.
+
+The most common look that most people are after is the "winged-eye look" that creates an extension of your eye to your eye's corners. This is a very tricky look to create as drawing the wrong shape can result in making the eyes look tired. To prevent this you must use a very sharp liquid eyeliner and choose the correct angle. The common practice is to use your lower eyelid's natural curve to draw the extended eyeliner and then connect the top part. Avoid making the wing too thick and too long, experiment with subtle sizes first. Check the image below to see a trick that can be used to learn to draw the wing:
+
+![Eyeliner part 2](eyeliner_part2.jpg "Eyeliner part 2")
+
+*TIP:* If you don't have a great eyesight, then you might have troubles applying eyeliner. Consider using a magnified makeup mirror.
