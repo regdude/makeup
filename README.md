@@ -2,6 +2,7 @@
 - [Introduction](#Introduction)
 - [Face shape](#Face-shape)
 - [The look](#The-look)
+- [Lighting](#Lighting)
 - [Products](#Products)
 - [Primer](#Primer)
 - [Color corrector](#Color-corrector)
@@ -71,6 +72,24 @@ Your skin color is going to play the major role to determine the colors you will
 Note: Choosing your makeup color based on your skin is only one method. You can match colors based on specific features, for example, match makeup colors with your outfit or match your eyeshadow with your lipstick.
 
 In general, there is a certain order how you should apply your makeup, but this is not definitive, you can easily change your makeup application order (to some extent) to achieve a different kind of look. The order you apply your makeup is important, but as long as you follow a few simple principles, you can adjust your look to your own liking. 
+
+# Lighting
+
+Before we jump into actual makeup application, there is a very important aspect that can change dramatically your makeup application decisions and the resulting look, this all can happen due to lighting. Below you can find some examples of light you should avoid:
+- Fluorescent lighting, can easily make things appear too bright and you tend to use too much concealer/foundation
+- Yellow lighting, can make you look tired
+- Pink lighting, can make you miss blemishes
+- Upwards/downwards facing lighting, tends to create all creases and wrinkles much more visible than in natural lighting
+
+To have proper lighting, consider using natural light, but that might not be an option always. The alternative is to use warm white bulbs, something that is in the 4800K-5000K range is preferred. The best light sources are going to be mirrors that have well diffused light coming from various sides of the mirror. Below you can find an example of such a mirror that is suited for makeup application:
+
+![Lighting mirror](Lighting_mirror.jpg "Lighting mirror")
+
+There are mirrors that have lightbulbs installed around the mirror, these mirrors do work too, but the light is not diffused. Such mirrors are good enough for most people so you can easily install such lights in your bathroom yourself.
+
+There are also portable illuminated makeup mirrors, they can be used to, but you must make sure that your mirror is somewhere in the middle of your eye level. Below you can find an example of such portable mirror:
+
+![Lighting mirror portable](Lighting_mirror_portable.jpg "Lighting mirror_portable")
 
 # Products
 
