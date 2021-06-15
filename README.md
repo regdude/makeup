@@ -18,6 +18,7 @@
 - [Eyeshadow](#Eyeshadow)
 - [Eyeliner](#Eyeliner)
 - [Mascara](#Mascara)
+- [Eyebrows](#Eyebrows)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -552,3 +553,65 @@ Some people are not so lucky with their natural eyelashes and mascara with an ey
 - Trifluoromethyl Dechloro Ethylprostenolamide
 
 Eyelash serums work very slow, you can only see some results in 1 month and they are going to be very minimal at first. Another option is to use fake eyelashes, but as of now, this is going to be out of this guide's scope.
+
+# Eyebrows
+
+Eyebrows give your look a groomed look. Most people naturally will have thick, uneven eyebrows, which is not suitable for most makeup looks. You should start by trimming your eyebrows to make sure your eyebrow hairs are in even length. There are electric eyebrow hair trimmers that easily trim to a specific length, though most of them will not be very adjustable. Blow you can find an example of an electric eyebrow trimmer:
+
+![Eyebrows trimmer](eyebrows_trimmer.jpg "Eyebrows trimmer")
+
+Note: Usually eyebrow trimmers are sold as facial hair trimmers as they are universal to cut facial hair, nose hair, ear hair and eyebrow hair.
+
+Some eyebrow trimmers will have a eyebrow brush, in general it is not needed, but it is nice to have as you must comb your eyebrow hairs upwards to make sure you get an even cut. You can even take a comb out of an empty mascara or use a beard comb. After you combed your eyebrows, use your electric trimmer and trim your eyebrow hairs by trimming them against the hair growth direction. Be careful though, these trimmers can cut a lot of hairs off and you might not be used to short hair eyebrows, so it is better to test out the length and possibly use the longest setting first (if available). Below you can find a demo and a review of such a device:
+
+[![Eyebrows trimmer](https://img.youtube.com/vi/nHJAC3R1ZiE/0.jpg)](https://www.youtube.com/watch?v=nHJAC3R1ZiE)
+
+Note: It is possible to trim your hairs using scissors and a comb, but this is not recommended for beginners, consider just getting an electric trimmer instead.
+
+Some people have quite even eyebrow hairs, so they might not even need to trim them, but might improve the look. Another reason to trim your hairs is to make plucking your eyebrows easier. Plucking your eyebrows involves pulling out excess hair and to shape your eyebrows. Shaping your eyebrows is an art form and is best to get it done professionally, but if you feel adventurous, then you can try shaping your eyebrows at home. Usually eyebrow shaping is done based on your face shape, consider using the following image as a guide to choose your eyebrow shape:
+
+![Eyebrows shape](eyebrows_shape.jpg "Eyebrows shape")
+
+Note: Female eyebrows tend to be higher up than male eyebrows and many female eyebrows tend to be more curved. Female eyebrows tend also to be thinner and in the past it was considered that you must have thin eyebrows, if you were a female. As of year 2021, females have all possible eyebrow shapes and they are all considered feminine.
+
+You must make sure you do NOT overpluck your eyebrows. There is a common way to make sure you don't overpluck them by using certain guide points. You can adjust it a little bit, but be very careful since it might create a weird outcome. Many women like separate the eyebrows even more and pluck more hair under the eyebrows to make them appear higher up to appear more feminine, but this can easily backfire. Consider using the following image as a guide to shape your eyebrows:
+
+![Eyebrows pluck](eyebrows_pluck.jpg "Eyebrows pluck")
+
+Use a pencil to draw a straight line, some people like to use a highlighter to put a mark on. To shape your eyebrows, pluck hairs that are between the pencil and your other eyebrow, then find the arch, which is the highest point on your eyebrow. The arch of your eyebrow is where it changes the angle, for very curved eyebrows this is where eyebrow shape starts to go downwards, for more straight eyebrows this is where your eyebrows stop increasing the height. As for the tail, this is where your eyebrows should stop. To pluck the hairs, use a pair of tweezers. There are many types of them, but a pair of flat ended tweezers will do just fine. Below you can find an example for a pair of tweezers to pluck eyebrows:
+
+![Eyebrows tweezers](eyebrows_tweezers.jpg "Eyebrows tweezers")
+
+Note: Make sure you properly clean your tweezers before each use. Plucking hair (just like epilating hair) creates a small wound that is prone to infections. Consider using anti-bacterial lotion (such as aloe vera gel) to minimize the chances to develop acne in those areas.
+
+**IMPORTANT:** Shaping your eyebrows is very difficult and many fail. Consider getting your eyebrows shaped professionally and then only maintain the shape by plucking excess hairs and trimming stray hairs.
+
+Not everyone is blessed with perfect eyebrows, most people don't seem to have evenly distributed eyebrow hairs, some people don't have a deep color tone for their eyebrow hairs, some people don't have the shape of thickness for the eyebrows they want. To fix this, various eyebrow makeup products are used, below you can find the most common types of eyebrow makeup products:
+- Eyebrow gel
+- Eyebrow pomade
+- Eyebrow pencil/marker
+- Eyebrow powder
+
+Eyebrow gel's main purpose is to secure the look of your eyebrows since the gel texture fastens your eyebrow hairs into place. Another feature of eyebrow gel is that they can be tinted, this means they can add color to your eyebrows and fill out the gaps. One of the best benefits of using a brow gel is that it is very easy to use and can be applied very fast, can easily be applied in 20 seconds for each eyebrow, the result is usually a very natural look. These gels can also be transparent, consider using less pigmented eyebrow gel first to understand the tone you need. They usually come with a comb and a spoolie. To use eyebrow gel, comb your eyebrow hairs upwards, use the spoolie to draw lines around your eyebrows and then fill in the middle. Consider combing your eyebrows upwards again before the gel has dried. Some eyebrow gels don't come with a comb, but just a spoolie, in such a case simply use the spoolie to comb your eyebrows in upwards motion. Below you can find a video instruction how to apply eyebrow gel:
+
+[![Eyebrows gel](https://img.youtube.com/vi/7qeTwjLkwzk/0.jpg)](https://www.youtube.com/watch?v=7qeTwjLkwzk)
+
+Eyebrow pomade is a cream based product and is used to create very defined eyebrow shapes and to create dramatic looks since pomades tend to come in very concentrated colors, but can also be used to create a natural look. The cream based structure is great for mimicking natural hairs so it is great for filling in gaps. Since pomades are very concentrated, then consider getting a less saturated color. Eyebrow pomades tend to come with a brush. Many people like to use eyebrow gel to fasten their eyebrow hairs first and then use pomade to add more definition. Use an eyebrow brush that is very thin and flat and in upwards motions in small light strokes draw new eyebrow hairs wherever you feel you have hair gaps. If you want to create a very defined look, then you can use a pomade to draw lines around your eyebrow. To draw more defined eyebrows, start by dipping a very small amount of pomade with your flat eyebrow brush, then in very light strokes starting from about the middle of your eyebrows lower side start drawing a straight line outwards till you reach your eyebrow's arch. Continue to draw the line from the inner corner of your eyebrow towards the middle of it and connect the previous line. After that draw a line starting from the arch towards your outer corner of the eyebrow. Draw a line in a similar fashion for the upper side of your eyebrow. When both the upper and lower lines are drawn, then fill in the middle using a semi-circular light strokes upwards to create a more natural look of eyebrow hairs. Consider watching the following video instruction to better understand the process:
+
+[![Eyebrows pomade](https://img.youtube.com/vi/elZ9i-PULdQ/0.jpg)](https://www.youtube.com/watch?v=elZ9i-PULdQ)
+
+Eyebrow pencils/markers are a great way to quickly fill in gaps on your eyebrows and they can be also used to create very precise eyebrow line definition that is more precise than what you could get with a pomade. These pencils/markers can come in various sizes and you can choose depending on your needs. A larger sized pencil/marker will make filling large areas fast, but smaller pencils/markers will give you great precision and gives you the option to easily draw your own eyebrow hairs. Over time eyebrow pencils will not be sharp anymore, you need to sharpen them. Most pencils will come with twist cap that sharpens the pencil, but some don't and you will actually need to sharpen it using a pencil sharpener, eyebrow markers should not be sharpened. Eyebrow pencils/markers can be used to draw the upper and lower line of your eyebrow, you can do that in a similar fashion like it is done with a pomade. The most common use case for a eyebrow pencil/marker is to draw new eyebrow hairs. To draw new hairs you first brush your eyebrows upwards and then use light strokes in the same direction as your natural eyebrow hairs. Below you can find a video instruction of the procedure:
+
+[![Eyebrows pencil](https://img.youtube.com/vi/vtDEQayo3JI/0.jpg)](https://www.youtube.com/watch?v=vtDEQayo3JI)
+
+*TIP:* Pencil eyeliner can also be used as an eyebrow pencil, but might not give you natural looking hairs.
+
+Eyebrow powders are similar to eyebrow pomade, but can be quite drying for dry skin types. Powders tend to give you a softer look than other eyebrow makeup products since they don't create sharp defined lines. Applying eyebrow powders is through a similar process you would do when using eyebrow pomade, you draw your eyebrow upper and lower lines and then fill in the middle. While the following tutorial is with a lot of steps, this is because the author wanted to make very defined eyebrows with brushing them before each step, but you can still use the following video instruction to understand the process in general:
+
+[![Eyebrows powders](https://img.youtube.com/vi/Wcvv9prhzoc/0.jpg)](https://www.youtube.com/watch?v=Wcvv9prhzoc)
+
+Eyebrow makeup comes in many shades, you should not always go for the deepest blacks and the most saturated tones. Eyebrow makeup tends to become darker when it is applied. Always pick a color that matches your hair color, don't pick a black color if you have brown eyebrow hairs. Eyebrow makeup also comes waterproof and non-waterproof formulas, there can be smudge proof eyebrow makeup too.
+
+Note: Eyebrow makeup tends to get out of the lines sometimes, it is common to use a concealer on top of the eyebrow and below the eyebrow after you have applied your eyebrow makeup. This will not only hide small mistakes, but also make the eyebrows more defined.
+
+There is a permanent way of shaping your eyebrows and making them look more defined, this can be done by tattooing them. The procedure involves measuring and marking some points on your eyebrows, numbing the area and then simply applying a tattoo right on top of your eyebrows. This is a procedure you cannot do at home on your own, you must get this done professionally. A specialist will guide you through the process, offer an example of the result you will be getting and adjust it to your needs. Tattooing eyebrows is common for those, who simply cannot ever get their eyebrow makeup done properly or are just lazy, this is a great option since it is permanent. A very similar method is called eyebrow microblading, which involves a blade with a pigment being added to your skin very similar to tattooing, it tends to give a more natural look.
