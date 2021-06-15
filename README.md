@@ -500,6 +500,8 @@ The most common look that most people are after is the "winged-eye look" that cr
 
 *TIP:* If you don't have a great eyesight, then you might have troubles applying eyeliner. Consider using a magnified makeup mirror.
 
+There is an option to get permanent eyeliner, this is done by tattooing the eyeliner on your eyelids. You can get a traditional eyeliner tattoo that is just a line on your eyelid, or you can get a lash enhancement tattoo, which makes your eyelashes to look fuller and more natural than the traditional eyeliner tattoo. Permanent eyeliner can only be done professionally. A specialist will explain the procedure and guide you through so you can make a proper decision.
+
 # Mascara
 
 Mascara gives your eyelashes more volume, lengthen them, thicken them and adds color to them. Females tend to have longer to compensate the larger eyes than males, but most women still want to make them appear even larger and mascara is a quick way to enhance them and give an instant feminine look. While there are cream and powder form mascaras, you will mostly be looking at liquid mascaras and those are the most common you will see. Mascaras have different types of formulas and they tend to fall into the following categories by their effect:
