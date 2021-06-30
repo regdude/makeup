@@ -21,6 +21,8 @@
 - [Eyebrows](#Eyebrows)
 - [Lips](#Lips)
 - [Setting spray](#Setting-spray)
+- [Removal](#Removal)
+- [Final thoughts](#Final-thoughts)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -665,3 +667,33 @@ The purpose of setting spray is to create a thin film over your makeup to make s
 - Glossy finish setting spray, suitable for dry skin types, creates a shine
 
 To use a setting spray, simply shake the bottle and then spray in a "X" formation on your face, then follow with a "T" formation. You only need to apply a thin layer of the setting spray. When setting spray is applied, then let it dry. In general, setting sprays don't contain harsh chemicals that could irritate your eyes, but it is advisable to avoid excess setting spray on your eye area.
+
+# Removal
+
+At the end of the day you MUST remove your makeup, this is crucial in order to prevent acne forming on your face and to ensure your skin receives proper hydration during the night. Failure to remove your makeup will result harder makeup application over time. Cleansing your face is a broad topic and it is highly recommended to check the [skincare guide](https://github.com/regdude/skincare/blob/main/README.md) to understand the best cleansing method for your skin type.
+
+While your skin might only need a gel-based cleanser to clean your skin, it might not be enough to remove all your makeup properly since many makeup products are water-proof and require more effective cleansing ingredients. It is highly recommended to check the [skincare guide](https://github.com/regdude/skincare/blob/main/README.md) to make sure your skin type can tolerate certain cleansing methods, that being said below you can find some effective cleansing methods to remove makeup:
+- Oil cleansing, suitable for dry skin types, not suitable for acne-prone skin, can be very effective to remove makeup, safe for eyes
+- Foam cleansing, suitable for acne-prone skin, not suitable for dry skin types, somewhat effective, generally not safe for eyes
+- Gel-based cleansing, ingredients determine the suitable skin type, only effective when contains acids such as salicylic acid, usually not safe for eyes
+- Micellar water, ingredients determine the suitable skin type, can be very effective, usually safe for eyes
+
+Very important thing to remember is that eye makeup is usually made to be very water-proof, for this reason it might be harder to remove it, especially mascara, but is highly recommended not to use harsh chemicals on your eyes since they can easily be irritated. Many people use two types of cleansing methods, one for the entire face and one specially designed for eye makeup removal. You can choose your cleansing method based on your skin type for your face, but use micellar water separately for your eyes since many micellar waters will be advertised as safe for your eyes and they can be highly effective to remove eye makeup using a cotton disk.
+
+Note: Remember to do your skincare routine after you have removed your makeup to prevent various skin concerns over time.
+
+# Final thoughts
+
+From this guide you should now have a fairly good understanding on how to use and why use various makeup products, but that is only the start of your journey since perfecting your makeup application comes with a lot of practice. Along the way you will learn about various "hacks" that make certain makeup application tasks easier and some of these "hacks" even replace various makeup application steps. These "hacks" have been left out on purpose to teach you the basics first.
+
+You might be repealed from even trying makeup application because of the long list of required steps, but you should remember that this guide covered as much as possible regarding makeup in general, this means that all of these steps are not a requirement, it is only a list of steps to introduce you how to achieve the best possible makeup look. You will find that adding a new step in your routine is easy and the extra step adds a certain effect to your overall look, but you will also find that each step takes a lot of time.
+
+If you only do makeup on very special occasions, then time might not be an issue, but most people want a very fast and effective makeup application technique. You will need to experiment and make a compromise between look and time. The goal of this guide was not to tell you exact steps you must execute, but rather to give information about all possible makeup products and let you choose what you want to use. You must determine your needs and then you can design your own routine. As an example, most people don't do the full routine on everyday occasion, they rather just put on a foundation, use a little bit of contouring, slap on a mascara, rub on some lip stick and call it a day. Some people add an eyeliner and blush. Some people just use foundation to even out the skin tone. You must simply find whatever works for you.
+
+Note: More makeup does not mean better, most people find that a natural makeup look is more appealing to them, but mastering a natural makeup look is very hard and requires a lot of practice.
+
+You don't need all sorts of makeup brushes to achieve a good makeup look, you can do a lot with your fingers. You don't need to buy expensive makeup, their quality is very debatable, you can almost always find makeup that matches your budget. Most makeup products will last you months, the initial investment might be high, but monthly costs are usually quite low. In general, celebrity makeup lines are expensive and you can easily find cheaper alternatives.
+
+Note: Most makeup products actually have expiration dates, in general it is not advisable to use such products after expiration date.
+
+Remember, makeup is a tool to make you feel more powerful!
