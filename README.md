@@ -20,6 +20,7 @@
 - [Mascara](#Mascara)
 - [Eyebrows](#Eyebrows)
 - [Lips](#Lips)
+- [Setting spray](#Setting-spray)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -656,3 +657,11 @@ Lipstick or lip stain is a compromise between a finish and long-lasting effect. 
 Note: Most lip makeup products will not last throughout the day, it is common to touch up with your lipstick or lip stain and with your lip gloss multiple times a day to achieve a suitable long-lasting look.
 
 There is a permanent lipstick option available. This is very similar to tattooing and using red pigment to add permanent color to your lips. A specialist will guide you through the process, offer an example of the result you will be getting and adjust it to your needs. Over time the pigment does fade out and you will need to redo the procedure.
+
+# Setting spray
+
+The purpose of setting spray is to create a thin film over your makeup to make sure it stays in place. Setting spray is the last step in your makeup routine. While it can be skipped just like many other steps in your makeup routine, it is still recommended to use a setting spray. This product can sometimes have different names, such as finishing spray or setting mist or other. Setting sprays can contain various ingredients and it is common for them to contain skincare ingredients that hydrate your skin or even target a certain skin concern, for example, acne, but the effect of these ingredients can be very limited since setting spray is the last step in your routine, this means that various powders, liquids and creams are sealing your skin and it is not very likely that these ingredients from your setting spray are going to reach your skin. There are mainly two types of setting sprays and others are something between these two types:
+- Matte finish setting spray, suitable for oily skin types, creates a matte finish
+- Glossy finish setting spray, suitable for dry skin types, creates a shine
+
+To use a setting spray, simply shake the bottle and then spray in a "X" formation on your face, then follow with a "T" formation. You only need to apply a thin layer of the setting spray. When setting spray is applied, then let it dry. In general, setting sprays don't contain harsh chemicals that could irritate your eyes, but it is advisable to avoid excess setting spray on your eye area.
