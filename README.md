@@ -19,6 +19,7 @@
 - [Eyeliner](#Eyeliner)
 - [Mascara](#Mascara)
 - [Eyebrows](#Eyebrows)
+- [Lips](#Lips)
 
 # Introduction
 Makeup is more of an art than science, but you can still use some techniques to improve the quality of your makeup application. This guide is going to focus only basic concepts you need to keep in mind when doing your makeup.
@@ -617,3 +618,41 @@ Eyebrow makeup comes in many shades, you should not always go for the deepest bl
 Note: Eyebrow makeup tends to get out of the lines sometimes, it is common to use a concealer on top of the eyebrow and below the eyebrow after you have applied your eyebrow makeup. This will not only hide small mistakes, but also make the eyebrows more defined.
 
 There is a permanent way of shaping your eyebrows and making them look more defined, this can be done by tattooing them. The procedure involves measuring and marking some points on your eyebrows, numbing the area and then simply applying a tattoo right on top of your eyebrows. This is a procedure you cannot do at home on your own, you must get this done professionally. A specialist will guide you through the process, offer an example of the result you will be getting and adjust it to your needs. Tattooing eyebrows is common for those, who simply cannot ever get their eyebrow makeup done properly or are just lazy, this is a great option since it is permanent. A very similar method is called eyebrow microblading, which involves a blade with a pigment being added to your skin very similar to tattooing, it tends to give a more natural look.
+
+# Lips
+
+One of the most sensual part of the face is lips, adding makeup to them can draw a lot of attention and make you look more attractive to others. While a simple lipstick can draw a lot of attention, there are some other makeup products that compliment your lipstick to a great extent. You can just use a lipstick that has your desired finish and color, but here we are going to discuss more advanced lip makeup. Below you will find information about the following lip makeup products:
+- Lip balm
+- Lip primer
+- Lip liner
+- Lip stain/stick
+- Lip gloss/glitter
+
+Note: Make sure you exfoliate your lips to remove dead skin cells. Failing to do so can make your lip makeup look uneven. You can use lip scrubs, but you can also use a soft tooth brush to gently remove the dead skin cells.
+
+It might seem unimportant, but hydrating your lips will prevent them from becoming dry and chapped. If your lips become dry, they will not appear plump and other lip makeup will look poorly done. Make sure you hydrate your lips with a good lip balm before applying any other lip makeup. Explaining why some lip balms are actually making your lips more dry is out of the scope for this guide, checking the [skincare guide](https://github.com/regdude/skincare/blob/main/README.md) is recommended, but in general look for lip balms that contain oils and some sort of humectant. Check the reviews of various lip balms to find one that works well. To use a lip balm, simply apply a thin layer of lip balm on your lips and squeeze/rub your lips together to spread the lip balm evenly.
+
+Lip makeup tends to smudge and bleed, which makes your lip makeup look chaotic. To prevent this to some extent, you should use a lip primer. Most lip primers will come in a container similar to a lipstick or a lip stain. Another feature of a lip primer is that they can make your lip makeup look more vibrant. Lip primers are usually transparent and applying them is done by simply applying the primer on the lips and using squeezing/rubbing motion with your lips to spread it evenly.
+
+Next lip makeup product is a lip liner. It is meant to create definition to your lips. Females tend to have larger lips than males, using lip liner you can achieve a more feminine look by drawing around your lips to make them appear larger. Another feature of a lip liner is to correct imperfections of your lip shape. Applying the lip liner is as simple as outlining your lips with the lip liner. One thing to note about the application of lip liner is that you should apply the lip liner all over your lips to create an even look. Below you can find the most common types of lip liners:
+- Pencil lip liner, simple to use, does not give a lot of precision
+- Liquid lip liner, harder to use, gives you a lot of precision
+
+Note: One of the hardest part is to match the color of your lipstick and your lip liner. Companies tend to give each color their own unique name, for this reason finding a match is a matter of trial and error. Another option is to choose a lipstick and lipliner from the same brand, that can give you a better chance of matching the colors.
+
+The most attention is going to be created with a lipstick or a lip stain. The purpose of both lip stain and lipstick is to add color to your lips, but the result can be quite different. Lip stain is a liquid that adds color to your lips, but a lipstick is a cream or wax that adds color to your lips, but creates a certain finish. Both lip stain and lipsticks contain various ingredients that can be drying for your lips, for this reason it is recommended to choose one that contains ingredients that hydrate your lips. Lip stain is a very lightweight product, but it might not create a very dramatic look, lipsticks on the other hand come in various finishes and some have some other properties. Applying lip stain and lipstick is simple, just apply the product on your lips and use squeezing/rubbing motion to spread out the product. Avoid going too close to your lip edges with a lip stain or lipstick, you should use a lip liner to precisely color your lip edges. Below you can find common types of lipsticks:
+- Satin/sheer lipstick, lightweight product, adds a small amount of shine, not very long-lasting
+- Matte lipstick, creates a matte finish and a smooth/youthful look, tends to be long-lasting
+- Cream lipstick, creates a smooth finish, suitable for people with small lips, can be long-lasting
+- Lip plumper lipstick, will make your lips appear larger, not very long-lasting
+- Moisturizing lipstick, adds extra hydration to your lips similar to lip balms, usually creates a shine
+
+To choose the best lip makeup color, consider using your skin undertone as a guide. Check the [The look](#The-look) section to determine your skin's undertone. For cool undertones a blue and purple hue is suitable. For warm undertones a red and orange hue is suitable. For neutral undertones almost any hue will work. Consider checking the image below:
+
+![Lips color](lips_color.jpg "Lips color")
+
+Lipstick or lip stain is a compromise between a finish and long-lasting effect. Lipsticks with a good shine effect will not last long, to counteract this you can use a lip gloss that adds a shine on your lips. Lips glosses can have various finishes, they can be glossy, frosted, matte, metallic and other finishes, they can be transparent and tinted. A special type of lip gloss is lip glitter that creates a glitter-like finish to your lips. Lip glosses can come in solid or liquid form. To apply lip gloss, simply apply it to your lips after you have applied your lipstick or lip stain, then use squeezing/rubbing motion with your lips to spread it evenly.
+
+Note: Most lip makeup products will not last throughout the day, it is common to touch up with your lipstick or lip stain and with your lip gloss multiple times a day to achieve a suitable long-lasting look.
+
+There is a permanent lipstick option available. This is very similar to tattooing and using red pigment to add permanent color to your lips. A specialist will guide you through the process, offer an example of the result you will be getting and adjust it to your needs. Over time the pigment does fade out and you will need to redo the procedure.
