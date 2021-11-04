@@ -89,13 +89,13 @@ Before we jump into actual makeup application, there is a very important aspect 
 
 To have proper lighting, consider using natural light, but that might not be an option always. The alternative is to use warm white bulbs, something that is in the 4800K-5000K range is preferred. The best light sources are going to be mirrors that have well diffused light coming from various sides of the mirror. Below you can find an example of such a mirror that is suited for makeup application:
 
-![Lighting mirror](Lighting_mirror.jpg "Lighting mirror")
+![Lighting mirror](lighting_mirror.jpg "Lighting mirror")
 
-There are mirrors that have lightbulbs installed around the mirror, these mirrors do work too, but the light is not diffused. Such mirrors are good enough for most people so you can easily install such lights in your bathroom yourself.
+There are mirrors that have light bulbs installed around the mirror, these mirrors do work too, but the light is not diffused. Such mirrors are good enough for most people so you can easily install such lights in your bathroom yourself.
 
 There are also portable illuminated makeup mirrors, they can be used to, but you must make sure that your mirror is somewhere in the middle of your eye level. Below you can find an example of such portable mirror:
 
-![Lighting mirror portable](Lighting_mirror_portable.jpg "Lighting mirror_portable")
+![Lighting mirror portable](lighting_mirror_portable.jpg "Lighting mirror_portable")
 
 # Products
 
@@ -140,7 +140,7 @@ While primer creates a smooth surface, it does not hide visual skin imperfection
 - Green, hides redness on your skin, usually acne
 - Orange, helps to conceal uneven skin tone for darker skin colors, especially for dark circles under eyes
 - Pink, help to conceal dark circles under eyes for lighter skin colors
-- Yellow, helps to hide veins, bruises and undereye circles
+- Yellow, helps to hide veins, bruises and under-eye circles
 - Purple, helps to even out very dull skin complexion
 
 Use the following diagram to decide what color corrector you need:
@@ -155,7 +155,7 @@ To apply a color corrector, first determine the required color to counteract the
 
 # Makeup sponge
 
-While you can apply makeup without any brushes or sponges, the makeup sponge is almost critical to your makeup. The purpose of makeup sponge is to blend your makeup, but you will soon notice that using fingers to blend your makeup has a very limited effect, this is where a makeup sponge can be a gamechanger, some consider it as the most valuable tool in makeup. Consider getting just about any makeup sponge, the price will not matter much, as long as it looks something like this:
+While you can apply makeup without any brushes or sponges, the makeup sponge is almost critical to your makeup. The purpose of makeup sponge is to blend your makeup, but you will soon notice that using fingers to blend your makeup has a very limited effect, this is where a makeup sponge can be a game changer, some consider it as the most valuable tool in makeup. Consider getting just about any makeup sponge, the price will not matter much, as long as it looks something like this:
 
 ![Makeup sponge](makeup_sponge.jpg "Makeup sponge")
 
@@ -165,7 +165,7 @@ Note: There are other motions that you can use, for example, a circular motion s
 
 **IMPORTANT:** These makeup sponges do get dirty, consider washing them with soap frequently. Not only a dirty makeup sponge can ruin your look, but it can also cause you acne.
 
-Usually the makeup sponges have a teardrop shape, this is on purpose. The rounded bottom area is used to blend large areas, for example, your cheekbones. The flat tip area is used to blend very hard to reach areas, for example, the inner eye corners. The rounded tip area is used to blend somewhat hard to reach areas, for example, undereye area. If you find areas, where you cannot seem to blend or you cannot seem to get a proper blend, then consider looking for a different shape of makeup sponge, each shape has benefits and drawbacks.
+Usually the makeup sponges have a teardrop shape, this is on purpose. The rounded bottom area is used to blend large areas, for example, your cheekbones. The flat tip area is used to blend very hard to reach areas, for example, the inner eye corners. The rounded tip area is used to blend somewhat hard to reach areas, for example, under-eye area. If you find areas, where you cannot seem to blend or you cannot seem to get a proper blend, then consider looking for a different shape of makeup sponge, each shape has benefits and drawbacks.
 
 # Foundation
 
@@ -210,11 +210,11 @@ Foundation is used to give a general coverage to hide skin imperfections, but so
 
 Liquid and cream concealers are similar to liquid foundations when it comes to application, cream concealers are thicker and offer more coverage, you will need to blend the concealer using a makeup sponge just like you would with a liquid foundation, a concealer brush can be used to achieve more precision. Powder concealers are applied the same way powder foundation is, but a concealer brush should be used. Stick concealers can be a great tool for those, who don't use much makeup, they can be a very quick fix for your skin imperfection, they come in a lipstick-like shape and can be easily applied by coloring a certain area.
 
-Most commonly foundation is going to be enough to cover most imperfections, but concealer is more commonly used to brighten your face, this is a task for a different product in your makeup routine (the highlighter), but concealer can also be used and seems to be a preferred choice for most people since a highlighter might not give enough coverage to hide dark undereye circles. For the reason mentioned, concealer should be used to achieve a very common look, where your eyes seem bright and youthful. Use the following image to correctly apply liquid concealer, though you can use this guideline for powder concealer as well:
+Most commonly foundation is going to be enough to cover most imperfections, but concealer is more commonly used to brighten your face, this is a task for a different product in your makeup routine (the highlighter), but concealer can also be used and seems to be a preferred choice for most people since a highlighter might not give enough coverage to hide dark under-eye circles. For the reason mentioned, concealer should be used to achieve a very common look, where your eyes seem bright and youthful. Use the following image to correctly apply liquid concealer, though you can use this guideline for powder concealer as well:
 
 ![Concealer](concealer.jpg "Concealer")
 
-From the image above you can conclude that you should form a triangle shape to achieve a youthful look, but pay attention that the concealer is placed on dot form, this is intentional to make sure you use less concealer, from there you can spread the concealer and then blend it in. You might need to use a bit more concealer on the undereye area, if you have dark circles under your eyes.
+From the image above you can conclude that you should form a triangle shape to achieve a youthful look, but pay attention that the concealer is placed on dot form, this is intentional to make sure you use less concealer, from there you can spread the concealer and then blend it in. You might need to use a bit more concealer on the under-eye area, if you have dark circles under your eyes.
 
 There are some areas on your face that you may wish to downplay. This is something a highlighter does, but a concealer can be used too. We are not going to cover these areas just yet, but they will be explained along with the effects a highlighter can make. For now, remember that you can try to replace either partially or fully your highlighter with a concealer since concealers will tend to be a little brighter than your foundation.
 
@@ -304,7 +304,7 @@ One of the hardest things to master is to contour the nose. The common practice 
 
 Note: This is the most common way most people contour their nose, based on your nose shape it might not be the best way. The straight lines on both sides will make your nose appear longer, check the guide further to learn more about nose sculpting using makeup.
 
-*TIP:* You can enhance the effect of making nose more narrow by spreading the highlighter from the undereye area up to the sides of the nose to almost meet with contour lines on your nose. This can make your nose appear even narrower.
+*TIP:* You can enhance the effect of making nose more narrow by spreading the highlighter from the under-eye area up to the sides of the nose to almost meet with contour lines on your nose. This can make your nose appear even narrower.
 
 The shape of the nose is quite unique to everyone, in general you want to make it look smaller, but there are other characteristics that you might want to downplay or maybe even enhance. Consider the following image to follow how to contour your nose based on its shape:
 
@@ -480,7 +480,7 @@ Each type of eyeliner has its own benefits, but have some drawbacks as well:
 - Cream/gel eyeliner, cream eyeliner is thicker than gel eyeliner, possible to create a smooth line, a bit easier to use than liquid eyeliner, glides smoothly, but they require an eyeliner brusher and can be more expensive
 - Liquid eyeliner creates the sharpest line possible, but can be very hard to apply it and hard to fix mistakes
 
-There are many colors available for the eyeliners, but you are mostly going to be interested in either black or brown eyelines (depending on your lashes) and in a white eyeliner. The white eyeliner is useful create an illusion of larger eyes that is especially useful for those, who want to create more feminine looking eyes. The technique is quite simple, you use a white pencil eyeliner and apply a very thin line exactly on the top of your lower eyelid, check the image below to better understand the white eyeliner placement:
+There are many colors available for the eyeliners, but you are mostly going to be interested in either black or brown eyeliners (depending on your lashes) and in a white eyeliner. The white eyeliner is useful create an illusion of larger eyes that is especially useful for those, who want to create more feminine looking eyes. The technique is quite simple, you use a white pencil eyeliner and apply a very thin line exactly on the top of your lower eyelid, check the image below to better understand the white eyeliner placement:
 
 ![Eyeliner white](eyeliner_white.jpg "Eyeliner white")
 
