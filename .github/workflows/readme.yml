@@ -1,0 +1,14 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  build:
+    steps:
+      - name: Adding README - French
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: fr
